@@ -1,0 +1,11 @@
+{
+  "name": "apiReq",
+  "version": "1.0.0",
+  "main": "main.js",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "node-fetch": "^3.3.2",
+    "puppeteer": "^21.5.2"
+  }
+}
